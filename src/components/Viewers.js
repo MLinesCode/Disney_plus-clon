@@ -17,7 +17,7 @@ function Viewers() {
         </video> 
       </Wrap>
       <Wrap>
-        <img src="/images/viewers-marvel.png" alt=""/>
+        <img src="/images/viewers-marvel.png" alt=""/> 
          <video autoPlay={true} muted={true} loop={true} playsInline={true}>
           <source src="/videos/1564676115-marvel.mp4" type="video/mp4"/>
         </video>
